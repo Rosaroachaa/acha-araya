@@ -26,7 +26,7 @@ var trabajos = [
     title: "ILUSTRACIÓN,diseños propios",
     about: "Realizo diferentes ilustraciones con diseños propios, con diferentes fines como la creación de calendarios, papelerías, etc.",
 }, {
-    figure:"media/m1.jpg",
+    figure:"media/m1.JPG",
     title: "CONTIGO,mujeres campesinas de melipeuco.",
     about: "La creacion de un producto educativo, que busca trasmitir la herencia de una zona para niños de 3 a 10 años, con el fin de complementar su educación.",
 }
